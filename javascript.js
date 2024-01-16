@@ -1,4 +1,4 @@
-$('#calendar').datepicker({
+$('#calendar').datepicker({ things
 		});
 
 !function ($) {
